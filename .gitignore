@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+can_receiver
+diagnostic_ecu
+gateway_ecu
